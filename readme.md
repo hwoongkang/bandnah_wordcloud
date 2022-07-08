@@ -18,3 +18,5 @@ https://www.oracle.com/java/technologies/downloads/
 ### 폰트 지정이 필요합니다.
 
 main.py 12번째 줄을 otf나 ttf가 있는 위치로 변경해서 사용해 주세요!
+
+## 가사는 `data/` 밑에 `**/*.txt` 형태로 넣으면 됩니다.
